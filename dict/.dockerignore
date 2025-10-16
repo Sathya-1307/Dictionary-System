@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 node_modules
 build
 
 
 .git
 
+=======
+node_modules
+build
+
+
+.git
+
+>>>>>>> e8147c63857e0d733ab69d7e0fa2fb790abe806f
